@@ -6,10 +6,8 @@ Kairos Research es una plataforma de análisis e investigación de tecnologías 
 ## Índice
 
 1. [Acerca de nosotros](#acerca-de-nosotros)
-2. [Servicios](#servicios)
-3. [Clientes](#clientes)
-4. [Equipo](#equipo)
-5. [Contáctenos](#contactenos)
+2. [Equipo](#equipo)
+3. [Contáctenos](#contactenos)
 
 ## Acerca de nosotros
 
@@ -18,11 +16,9 @@ En Kairos Research, queremos aportar valor a la comunidad al reducir la barrera 
 ## Equipo
 Somos un equipo interdisciplinario apasionado por la innovación. Nuestro objetivo es compartir la tecnología con el mundo y hacer una contribución positiva al progreso global. Buscamos constantemente nuevas formas de pensar y abordar los desafíos, con el fin de impulsar la innovación y la creatividad en todas nuestras iniciativas.
 
-[Conozca a nuestro equipo](./team.md)
-
 ## Contáctenos
 
-Estamos emocionados de trabajar juntos y estamos comprometidos con hacer una diferencia significativa en el mundo. ¡Únanse a nosotros en este viaje de descubrimiento y desarrollo tecnológico!
+Estamos comprometidos con hacer una diferencia significativa en el mundo. ¡Únanse a nosotros en este viaje de descubrimiento y desarrollo tecnológico!
 
 - **Correo electrónico:** kairosresearch.xyz@gmail.com
 
