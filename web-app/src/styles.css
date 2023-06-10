@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #1f1f1f;
+}
+
+
+.btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #329483;
+    --bs-btn-border-color: #329483;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #256f68;
+    --bs-btn-hover-border-color: #256f68;
+    --bs-btn-focus-shadow-rgb: 50, 148, 131;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #256f68;
+    --bs-btn-active-border-color: #256f68;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #329483;
+    --bs-btn-disabled-border-color: #329483;
+}
+
