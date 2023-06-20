@@ -15,6 +15,8 @@ const routes: Routes = [
   { path: 'roadmap', component: RoadmapComponent },
   { path: 'team', component: TeamComponent },
   { path: 'contacto', component: ContactoComponent },
+  { path: 'result', component: HomeComponent },
+  
 ];
 
 @NgModule({
